@@ -1,0 +1,51 @@
+commit 37620e2dce2d25e58adb097becf4350ab2757bff
+Merge: 0809f24 af93ad6
+Author: pang-dev <tpangwork04@gmail.com>
+Date:   Fri Jan 30 11:17:51 2026 -0800
+
+    Resolve merge conflict
+
+commit af93ad689cc80f2cfb427c19a2aafc008635f616
+Author: pang-dev <tpangwork04@gmail.com>
+Date:   Fri Jan 30 11:10:56 2026 -0800
+
+    Added new div to index.html
+
+commit 0809f24fda40235e8f21fe79a07f65f8edd85552
+Author: pang-dev <tpangwork04@gmail.com>
+Date:   Fri Jan 30 11:08:36 2026 -0800
+
+    Added new div to index.html
+
+commit 11707ab25bf912900179fa44b3ce9d1d925e9750
+Author: pang-dev <tpangwork04@gmail.com>
+Date:   Fri Jan 30 11:03:16 2026 -0800
+
+    Fixing README file
+
+commit 0d5c3c6afa7b599906bfef34b7ccd20670c46696
+Author: pang-dev <tpangwork04@gmail.com>
+Date:   Fri Jan 30 11:01:33 2026 -0800
+
+    Add initial README file
+
+commit f9051e71d97bd2944c5b0d541456c116d8a77860
+Merge: 1d2bfc0 7598f00
+Author: Tommy Pang <tpangwork04@gmail.com>
+Date:   Fri Jan 30 10:53:49 2026 -0800
+
+    Merge pull request #1 from pang-dev/info-fill
+    
+    Filled in blanks in index.html
+
+commit 7598f004d04d55c4980e46335870b6a625e7d59b
+Author: pang-dev <tpangwork04@gmail.com>
+Date:   Fri Jan 30 10:48:52 2026 -0800
+
+    Filled in blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
